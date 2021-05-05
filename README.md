@@ -5,7 +5,7 @@
 - :computer:  Creative Developer and Tech Enthusiast.
 - :books:  UG Computer Science student.
 - :raised_hands: I’m looking to collaborate on Front-End works and React applications.
-- :memo: I’m currently working on Cross Platform Applications.  
+- :memo: I’m currently learing ML and DS.  
 
 #### How to reach me?
 <br> 

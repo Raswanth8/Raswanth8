@@ -1,4 +1,4 @@
-[![ezgif-7-35469339e2c6.gif](https://s1.gifyu.com/images/ezgif-7-35469339e2c6.gif)](https://gifyu.com/image/6QPt)
+![About](images/new.png)
 <br>
 
 #### About me?

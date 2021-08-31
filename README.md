@@ -13,6 +13,8 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='github' height='25'>](https://t.me/rachoo_8)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/raswanth-rajangam-4564a41aa/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='25'>](https://www.instagram.com/raswanth.8/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='25'>](https://dev.to/raswanth8)
 
 <br>
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raswanth8)
+<br>
 
 ![](https://komarev.com/ghpvc/?username=Raswanth8&color=brightgreen&style=flat-square)
 

@@ -1,4 +1,4 @@
-![About](images/new.png)
+![About](images/new1.png)
 <br>
 
 #### About me?

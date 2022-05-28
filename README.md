@@ -2,12 +2,12 @@
 <br>
 
 #### About me?
-✅ I'm a CSE 2023 undergrad at Amrita University, Coimbatore
-✅ I develop high performant web applications using React.js, and Material UI.
-✅ Passionate about web 3.0 and Blockchain Technology.
-✅ Student Researcher - (Blockchain, AI/ML, Distributed Technology)
-✅ Familiar with Data Science, Machine Learning, and Computer Vision concepts
-✅ Looking out for both Researcher and SDE part-time roles.
+- ✅ I'm a CSE 2023 undergrad at Amrita University, Coimbatore
+- ✅ I develop high performant web applications using React.js, and Material UI.
+- ✅ Passionate about web 3.0 and Blockchain Technology.
+- ✅ Student Researcher - (Blockchain, AI/ML, Distributed Technology)
+- ✅ Familiar with Data Science, Machine Learning, and Computer Vision concepts
+- ✅ Looking out for both Researcher and SDE part-time roles.
 
 #### How to reach me?
 <br> 

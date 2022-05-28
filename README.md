@@ -2,10 +2,12 @@
 <br>
 
 #### About me?
-- :computer:  Web and Tech Enthusiast.
-- :books:  UG Computer Science student.
-- :raised_hands: I’m looking to collaborate on Front-End works and React applications.
-- :memo: I’m currently learning Ds & Algo and API arch.  
+✅ I'm a CSE 2023 undergrad at Amrita University, Coimbatore
+✅ I develop high performant web applications using React.js, and Material UI.
+✅ Passionate about web 3.0 and Blockchain Technology.
+✅ Student Researcher - (Blockchain, AI/ML, Distributed Technology)
+✅ Familiar with Data Science, Machine Learning, and Computer Vision concepts
+✅ Looking out for both Researcher and SDE part-time roles.
 
 #### How to reach me?
 <br> 
